@@ -1,4 +1,9 @@
-<table style="font-size: 9px;">
+<table style="font-size: 12px; width: 100%;">
+  <colgroup>
+    <col style="width: 25%;">
+    <col style="width: 50%;">
+    <col style="width: 25%;">
+  </tr>
   <tr>
     <th>📁 <b>Category</b></th>
     <th>📝 <b>Description</b></th>
