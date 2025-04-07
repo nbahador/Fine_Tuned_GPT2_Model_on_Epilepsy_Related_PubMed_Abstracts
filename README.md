@@ -1,4 +1,4 @@
-<table style="font-size: 10px;">
+<table style="font-size: 9px;">
   <tr>
     <th>📁 <b>Category</b></th>
     <th>📝 <b>Description</b></th>
