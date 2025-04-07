@@ -10,12 +10,12 @@
     <td>📂 <a href="https://huggingface.co/datasets/nubahador/Retrieved_Data_from_PubMed/tree/main">Dataset</a></td>
   </tr>
   <tr>
-    <td>🧠 Fine-Tuned I</td>
+    <td>🧠 I</td>
     <td style="max-width: 400px; word-wrap: break-word;">GPT-2 fine-tuned on epilepsy-related PubMed abstracts</td>
     <td>⚙️ <a href="https://huggingface.co/nubahador/Fine_Tuned_GPT2_Model_on_Epilepsy_Related_PubMed_Abstracts/tree/main/Fine_Tuned_GPT2_Model_on_Epilepsy_Related_PubMed_Abstracts/Configuration%20I">Config I</a></td>
   </tr>
   <tr>
-    <td>🧠 Fine-Tuned II</td>
+    <td>🧠 II</td>
     <td style="max-width: 400px; word-wrap: break-word;">GPT-2 fine-tuned on epilepsy-related PubMed abstracts</td>
     <td>⚙️ <a href="https://huggingface.co/nubahador/Fine_Tuned_GPT2_Model_on_Epilepsy_Related_PubMed_Abstracts/tree/main/Fine_Tuned_GPT2_Model_on_Epilepsy_Related_PubMed_Abstracts/Configuration%20II">Config II</a></td>
   </tr>
